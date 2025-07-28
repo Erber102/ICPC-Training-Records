@@ -14,3 +14,4 @@
 2025/4/19,lyc, p3165, https://www.luogu.com.cn/problem/P3165, 练习，fhq treap（+区间旋转+特殊分裂（按最小值分裂））+离散化；技巧：当对一个序列进行稳定排序的时候，如果你的排序算法本身没法保证稳定性，可以直接离散化原数列，让所有值相同的变成按照位置递增的。这样离散化后的序列就没有相同的值了。
 2025/4/20.lyc, cf104172, https://codeforces.com/gym/104172/problem/A, 基础树形dp；易错点：在时间卡的比较紧张时候对于多组测试，每次都得memset的情况，如果用边存图只memset(head),cnt置0；数组不能开的太大。不然memset占用时间太多会TLE
 2025/4/21,llyc, cf104172,https://codeforces.com/gym/104172/problem/B, 概率+观察，签到题
+2025/7/29,lyc, https://ac.nowcoder.com/acm/contest/108301/D, 线代构造
